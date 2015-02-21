@@ -35,6 +35,7 @@ and SCTP can provide the best of both TCP and UDP capabilities.
 
 ###MANIFEST
 --------
+```
 .
 |-- bin
 |-- doc
@@ -52,25 +53,31 @@ and SCTP can provide the best of both TCP and UDP capabilities.
     |-- lib
     |-- testlib
     `-- withsctp
-
+```
 You may want to check the following files:
-
+```
 LICENCE	  Licensing terms of this repository
 
-COPYING		Licensing terms of other pieces of the package
+COPYING	  Licensing terms of other pieces of the package
 
 ROADMAP		A tour around the files
 
 INSTALL   How to install and run.
 
 ChangeLog	What has changed since the last release?
+```
+
 
 
 ###GOALS
 - [ ]
 
+
+
 ###FEATURES
 -----------
+
+
 
 ###WEB SITES AND CONTACT INFO
 ---------------------------

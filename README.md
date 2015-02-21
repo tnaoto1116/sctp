@@ -56,10 +56,15 @@ and SCTP can provide the best of both TCP and UDP capabilities.
 You may want to check the following files:
 
 LICENCE	  Licensing terms of this repository
+
 COPYING		Licensing terms of other pieces of the package
-ROADMAP		A tour around the files in the distribution of SCTP-tools.
+
+ROADMAP		A tour around the files
+
 INSTALL   How to install and run.
+
 ChangeLog	What has changed since the last release?
+
 
 ###GOALS
 - [ ]
